@@ -82,27 +82,10 @@ http://81.7.13.162/hls/ss3/index.m3u8
 http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",REAL MADRID TV (ES)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC-12 Sports
-http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Fox Sports 1
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,NBC Olympics 24/7
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
-#EXTINF:0,NFL Now
-http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 #EXTINF:0,Eurosport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:0,Eurosport 1 HD (French)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
-#EXTINF:0,Sport Time 1
-http://euroiptv.de:8000/live/testyayin2/testyayin2/221.ts
-#EXTINF:0,Sport Time 1 (2)
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:0,Sport Time 2
-http://euroiptv.de:8000/live/testyayin2/testyayin2/222.ts
-#EXTINF:0,Sport Time 2 (2)
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-
 
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/c1nmlt1492909354.png",Historia
 http://185.26.174.67:44444/play/a01g
@@ -160,20 +143,10 @@ http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",MEIA PRAIA
 http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
 
-#EXTINF:0,W 24 Wien
-rtmp://ms01.w24.at:1935/livepkgr/livestream2
 #EXTINF:0,SERVUS TV AT
 http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Redbull TV
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:0,1HD
-http://109.172.11.85:1234/udp/224.0.42.161:5000
 #EXTINF:0,24 TV
 http://176.114.202.140:7781/udp/239.255.11.104:1234
-#EXTINF:0,2x2
-http://176.114.202.140:7781/udp/239.255.11.3:1234
-#EXTINF:0,A-One
-http://109.172.11.85:1234/udp/224.0.42.8:5000
 #EXTINF:0,WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_1992_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,WDR HD
@@ -182,33 +155,17 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:0,ARD (2)
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,ARTE
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_540.m3u8
-#EXTINF:0,arte (2)
-http://delive.artestras.cshls.lldns.net/artestras/delive/delive/delive_925.m3u8
-#EXTINF:0,arte (3)
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
-#EXTINF:0,weltderwunder
-rtmp://mf.weltderwunder.c.nmdn.net/wdwlive//WDW-HQ.stream
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/loa4g01500902338.png",Das Erste (DE)
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/qrpwvt1433441512.png",Deutsche Welle (DE)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:0,SERVUS TV DE
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,SWR
-http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,SWR Baden-Würt. HD
-http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,TAGESSCHAU 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,tagesschau24 HD
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
 
-#EXTINF:0,UK: SKY NEWS
-http://iptvbox.noip.us:9998/live/mile/skype/186.m3u8
-#EXTINF:0,Sky News UK
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404.live/04.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://seasonax.com/application/files/7714/5826/5701/img_144_logobb.png",BLOOMBERG (US)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:0,Bloomberg
@@ -225,10 +182,6 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
 #EXTINF:0,ABC News Extra
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8 
-#EXTINF:0,CBS News
-http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:0,Euronews
-http://euronews-en-p9-cdn.hexaglobe.net/b3d6063f8fb8d18749c6616f03034b5e/59561dea/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/playlist.m3u8
 #EXTINF:0,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0,Deutche Welle English
@@ -239,24 +192,14 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 http://live.cgtn.com/manifest.m3u8
 #EXTINF:0,CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
-#EXTINF:0,NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:0,Animal Planet
-http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Fox News Talk
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 
 
 
 
-#EXTINF:0,The Edge
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
-#EXTINF:0,Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1105418252_b1896000.m3u8
 #EXTINF:0,CMC
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:0,CMC Beat Lounge
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/Mobile/CMCLateNite_2017_0326.smil.m3u8
 #EXTINF:0,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Heart TV
@@ -267,23 +210,6 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 #EXTINF:0,Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,VEVO Deutschland
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/05/prog_index.m3u8
-#EXTINF:0,Vevo TV 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0,VEVO TV 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,Vevo TV 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:0,VEVO TV 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0,Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:0,VH1 classic
-http://81.201.52.159:8024
-#EXTINF:0,VirginTV Radio
-rtmp://fms.105.net:1935/live/virgin1
-
 
 
 
