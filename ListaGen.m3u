@@ -75,65 +75,65 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuqtux1462891387.png",ORF Sport +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
-#EXTINF:-1,ATV AT
+#EXTINF:0,ATV AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12521.ts
-#EXTINF:-1,ATV HD AT
+#EXTINF:0,ATV HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12520.ts
-#EXTINF:-1,ATV2 AT
+#EXTINF:0,ATV2 AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12519.ts
-#EXTINF:-1,Deluxe Music HD AT
+#EXTINF:0,Deluxe Music HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15741.ts
-#EXTINF:-1,Disney Channel HD AT
+#EXTINF:0,Disney Channel HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15756.ts
-#EXTINF:-1,Kabel Eins AT
+#EXTINF:0,Kabel Eins AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12518.ts
-#EXTINF:-1,N24 HD AT
+#EXTINF:0,N24 HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14572.ts
-#EXTINF:-1,Nickelodeon HD AT
+#EXTINF:0,Nickelodeon HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14570.ts
-#EXTINF:-1,ORF eins AT
+#EXTINF:0,ORF eins AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12515.ts
-#EXTINF:-1,ORF 2B HD AT
+#EXTINF:0,ORF 2B HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16386.ts
-#EXTINF:-1,ORF 2K HD AT
+#EXTINF:0,ORF 2K HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16385.ts
-#EXTINF:-1,ORF 2O HD AT
+#EXTINF:0,ORF 2O HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16384.ts
-#EXTINF:-1,ORF 2S HD AT
+#EXTINF:0,ORF 2S HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16383.ts
-#EXTINF:-1,ORF 2ST HD AT
+#EXTINF:0,ORF 2ST HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16382.ts
-#EXTINF:-1,ORF 2 AT
+#EXTINF:0,ORF 2 AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12514.ts
-#EXTINF:-1,ORF 2T HD AT
+#EXTINF:0,ORF 2T HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16381.ts
-#EXTINF:-1,ORF III HD AT
+#EXTINF:0,ORF III HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16388.ts
-#EXTINF:-1,ORF III AT
+#EXTINF:0,ORF III AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12517.ts
-#EXTINF:-1,ORF Sport Plus HD AT
+#EXTINF:0,ORF Sport Plus HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16387.ts
-#EXTINF:-1,ORF Sport Plus AT
+#EXTINF:0,ORF Sport Plus AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12516.ts
-#EXTINF:-1,Puls4 AT
+#EXTINF:0,Puls4 AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12511.ts
-#EXTINF:-1,ProSieben AT
+#EXTINF:0,ProSieben AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12512.ts
-#EXTINF:-1,RTL NITRO AT
+#EXTINF:0,RTL NITRO AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12510.ts
-#EXTINF:-1,Servus TV AT
+#EXTINF:0,Servus TV AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12509.ts
-#EXTINF:-1,StarParadies AT
+#EXTINF:0,StarParadies AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12507.ts
-#EXTINF:-1,TLC HD AT
+#EXTINF:0,TLC HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15758.ts
-#EXTINF:-1,oe24.TV AT
+#EXTINF:0,oe24.TV AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16389.ts
-#EXTINF:-1,R9 HD AT
+#EXTINF:0,R9 HD AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16380.ts
-#EXTINF:-1,Sixx AT
+#EXTINF:0,Sixx AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12306.ts
-#EXTINF:-1,Kronehit TV AT
+#EXTINF:0,Kronehit TV AT
 http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9393.ts
 
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/c1nmlt1492909354.png",Historia
