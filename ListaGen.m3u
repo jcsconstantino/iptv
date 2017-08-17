@@ -1,19 +1,11 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/tppruv1461618203.png",ORF 1
-http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wyrqvv1436104657.png",ORF 2
-http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/xusypy1461618215.png",ORF 3
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuqtux1462891387.png",ORF Sport +
-http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+
 
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png",RTP 1
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png",RTP 2
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
 http://noscdn1.connectedviews.com:1935/live/sic.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI
@@ -48,15 +40,15 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/yuxppt1465900144.png",Porto Canal
 rtsp://213.13.26.41:1935/live/portocanal
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP AÁores 
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP A√ßores 
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP ¡frica 
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP √Åfrica 
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrvwx1438185988.png",RTP Internacional
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png",RTP MemÛria
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png",RTP Mem√≥ria
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/qypyvv1437950573.png",Canal Parlamento
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
@@ -73,6 +65,76 @@ http://185.26.174.67:44444/play/a01c
 http://185.26.174.67:44444/play/a002
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png",Eurosport
 http://185.26.174.67:44444/play/a01d
+
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/tppruv1461618203.png",ORF 1
+http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wyrqvv1436104657.png",ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/xusypy1461618215.png",ORF 3
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuqtux1462891387.png",ORF Sport +
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1,ATV AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12521.ts
+#EXTINF:-1,ATV HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12520.ts
+#EXTINF:-1,ATV2 AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12519.ts
+#EXTINF:-1,Deluxe Music HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15741.ts
+#EXTINF:-1,Disney Channel HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15756.ts
+#EXTINF:-1,Kabel Eins AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12518.ts
+#EXTINF:-1,N24 HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14572.ts
+#EXTINF:-1,Nickelodeon HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14570.ts
+#EXTINF:-1,ORF eins AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12515.ts
+#EXTINF:-1,ORF 2B HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16386.ts
+#EXTINF:-1,ORF 2K HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16385.ts
+#EXTINF:-1,ORF 2O HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16384.ts
+#EXTINF:-1,ORF 2S HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16383.ts
+#EXTINF:-1,ORF 2ST HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16382.ts
+#EXTINF:-1,ORF 2 AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12514.ts
+#EXTINF:-1,ORF 2T HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16381.ts
+#EXTINF:-1,ORF III HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16388.ts
+#EXTINF:-1,ORF III AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12517.ts
+#EXTINF:-1,ORF Sport Plus HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16387.ts
+#EXTINF:-1,ORF Sport Plus AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12516.ts
+#EXTINF:-1,Puls4 AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12511.ts
+#EXTINF:-1,ProSieben AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12512.ts
+#EXTINF:-1,RTL NITRO AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12510.ts
+#EXTINF:-1,Servus TV AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12509.ts
+#EXTINF:-1,StarParadies AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12507.ts
+#EXTINF:-1,TLC HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15758.ts
+#EXTINF:-1,oe24.TV AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16389.ts
+#EXTINF:-1,R9 HD AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16380.ts
+#EXTINF:-1,Sixx AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12306.ts
+#EXTINF:-1,Kronehit TV AT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9393.ts
 
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/c1nmlt1492909354.png",Historia
 http://185.26.174.67:44444/play/a01g
