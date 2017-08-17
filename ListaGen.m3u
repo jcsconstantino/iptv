@@ -1,6 +1,13 @@
 #EXTM3U
 
-
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/tppruv1461618203.png",ORF 1
+http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wyrqvv1436104657.png",ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/xusypy1461618215.png",ORF 3
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuqtux1462891387.png",ORF Sport +
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png",RTP 1
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
@@ -65,76 +72,16 @@ http://185.26.174.67:44444/play/a01c
 http://185.26.174.67:44444/play/a002
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png",Eurosport
 http://185.26.174.67:44444/play/a01d
-
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/tppruv1461618203.png",ORF 1
-http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wyrqvv1436104657.png",ORF 2
-http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/xusypy1461618215.png",ORF 3
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuqtux1462891387.png",ORF Sport +
-http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
-
-#EXTINF:0,ATV AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12521.ts
-#EXTINF:0,ATV HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12520.ts
-#EXTINF:0,ATV2 AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12519.ts
-#EXTINF:0,Deluxe Music HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15741.ts
-#EXTINF:0,Disney Channel HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15756.ts
-#EXTINF:0,Kabel Eins AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12518.ts
-#EXTINF:0,N24 HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14572.ts
-#EXTINF:0,Nickelodeon HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14570.ts
-#EXTINF:0,ORF eins AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12515.ts
-#EXTINF:0,ORF 2B HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16386.ts
-#EXTINF:0,ORF 2K HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16385.ts
-#EXTINF:0,ORF 2O HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16384.ts
-#EXTINF:0,ORF 2S HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16383.ts
-#EXTINF:0,ORF 2ST HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16382.ts
-#EXTINF:0,ORF 2 AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12514.ts
-#EXTINF:0,ORF 2T HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16381.ts
-#EXTINF:0,ORF III HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16388.ts
-#EXTINF:0,ORF III AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12517.ts
-#EXTINF:0,ORF Sport Plus HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16387.ts
-#EXTINF:0,ORF Sport Plus AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12516.ts
-#EXTINF:0,Puls4 AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12511.ts
-#EXTINF:0,ProSieben AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12512.ts
-#EXTINF:0,RTL NITRO AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12510.ts
-#EXTINF:0,Servus TV AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12509.ts
-#EXTINF:0,StarParadies AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12507.ts
-#EXTINF:0,TLC HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15758.ts
-#EXTINF:0,oe24.TV AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16389.ts
-#EXTINF:0,R9 HD AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16380.ts
-#EXTINF:0,Sixx AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12306.ts
-#EXTINF:0,Kronehit TV AT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9393.ts
+#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 1 (ALB)
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 2 (ALB)
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 3 (ALB)
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 4 (ALB)
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",REAL MADRID TV (ES)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/c1nmlt1492909354.png",Historia
 http://185.26.174.67:44444/play/a01g
@@ -161,51 +108,12 @@ http://185.26.174.67:44444/play/a01f
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/xpxwrx1471035181.png",Disney Jr
 http://185.26.174.67:44444/play/a00q
 
-#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 1 (ALB)
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 2 (ALB)
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 3 (ALB)
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 4 (ALB)
-http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",REAL MADRID TV (ES)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/loa4g01500902338.png",Das Erste (DE)
-http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/qrpwvt1433441512.png",Deutsche Welle (DE)
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",LIVE ISS
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.selectivesearch.com/wp-content/uploads/2014/03/SS_press_WGN9CW1.png",WGN NEWS CHICAGO (US)
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://seasonax.com/application/files/7714/5826/5701/img_144_logobb.png",BLOOMBERG (US)
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.userlogos.org/files/logos/bcm2009/abc1.png",ABC NEWS (US)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png/medium" ,FRANCE 24 (FR)
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Sky_TG24.svg/640px-Sky_TG24.svg.png" ,SKY TG24 (IT)
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/250px-Deutsche_Welle_symbol_2012.svg.png" ,DW LATINO (ALE)
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.industryandbusiness.ie/wp-content/uploads/2015/11/russia-today.png",RUSSIA TODAY (INT.)
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.winthewealthgame.com/wp-content/uploads/2016/03/final-ann7-logo-2015.png" ,ANN7 SOUTH AFRICA (INT.)
-http://46.4.25.213/live-ann7/ann7-mid.stream/playlist.m3u8
-
 
 
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",NAZARE
 http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",SUPERTUBOS
 http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",LAGIDE
-http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",SANTA CRUZ
-http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",RIBEIRA D ILHAS
 http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ERICEIRA
@@ -220,33 +128,151 @@ http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
 http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CARCAVELOS
 http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CAPARICA CDS
-http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CAPARICA S.JOAO
 http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",FONTE DA TELHA
-http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CARVALHAL
-http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",S. TORPES
 http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ZAMBUJEIRA
 http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",AMOREIRA
-http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ARRIFANA
-http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA LUZ
 http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",MEIA PRAIA
 http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ALVOR
-http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA ROCHA
-http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA GALO
-http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",EVARISTO
-http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",VILAMOURA
-http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/loa4g01500902338.png",Das Erste (DE)
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/qrpwvt1433441512.png",Deutsche Welle (DE)
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://seasonax.com/application/files/7714/5826/5701/img_144_logobb.png",BLOOMBERG (US)
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.userlogos.org/files/logos/bcm2009/abc1.png",ABC NEWS (US)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png/medium" ,FRANCE 24 (FR)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Sky_TG24.svg/640px-Sky_TG24.svg.png" ,SKY TG24 (IT)
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:0,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
+#EXTINF:0,ABC News Live
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
+#EXTINF:0,ABC News Extra
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8 
+#EXTINF:0,CBS News
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:0,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8 
+#EXTINF:0,Sky News UK
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404.live/04.m3u8
+#EXTINF:0,Euronews
+http://euronews-en-p9-cdn.hexaglobe.net/b3d6063f8fb8d18749c6616f03034b5e/59561dea/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/playlist.m3u8
+#EXTINF:0,Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,Russia Today
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
+#EXTINF:0,Russia Today US Feed
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index.m3u8
+#EXTINF:0,Russia Today UK Feed
+http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
+#EXTINF:0,RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
+#EXTINF:0,France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,Deutche Welle English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8 
+#EXTINF:0,Sky News Arabia
+http://stream.skynewsarabia.com/stream/snahls_med.m3u8
+#EXTINF:0,Al Jazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8 
+#EXTINF:0,TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0,NDTV 24x7 News
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+#EXTINF:0,NDTV Profit
+http://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8?b=256,384
+#EXTINF:0,NDTV India
+https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8?set-segment-duration=quality&b=256,384
+#EXTINF:0,CGTN
+http://live.cgtn.com/manifest.m3u8
+#EXTINF:0,CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:0,NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:0,Arirang World
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+#EXTINF:0,Arirang UN
+http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:0,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
+#EXTINF:0,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0,KITV Island News ABC
+http://play-prod1.live.anvato.net/server/play/hearst-kitv-dfp/master.m3u8
+#EXTINF:0,KITV Stream 2
+http://54.163.107.81/server/play/hearst-kitv-dfp/master.m3u8
+#EXTINF:0,Fox News Talk
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:0,
+
+#EXTINF:0,Sports
+
+#EXTINF:0,PAC-12 Sports
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Fox Sports 1
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,NBC Olympics 24/7
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
+#EXTINF:0,NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:0,Eurosport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0,Eurosport 1 HD (French)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
+#EXTINF:0,FightBox HD
+http://spi-live.ercdn.net/spi/smil:fightboxhd_2.smil/playlist.m3u8
+#EXTINF:0,
+
+#EXTINF:0,Music
+
+#EXTINF:0,The Edge
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
+#EXTINF:0,Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1105418252_b1896000.m3u8
+#EXTINF:0,CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0,CMC Beat Lounge
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/Mobile/CMCLateNite_2017_0326.smil.m3u8
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,City Radio.TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:0,Virgin Music TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:0,Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:0,Adultswim Toonami
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
+#EXTINF:0,Fish TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/playlist.m3u8
+#EXTINF:0,Uni Of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:0,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:0,AMG
+http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist.m3u8
+#EXTINF:0,REV'N
+http://pub2.mpl.miisolutions.net/pub2-live-54/_definst_/mp4:REVN3/playlist.m3u8 
+#EXTINF:0,NASA TV
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public/master.m3u8
+#EXTINF:0,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_3000.m3u8
+
+
+
+
