@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/tppruv1461618203.png",ORF 1
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wyrqvv1436104657.png",ORF 2
@@ -11,33 +9,24 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuqtux1462891387.png",ORF Sport +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png",RTP 1
-
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png",RTP 2
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
 http://noscdn1.connectedviews.com:1935/live/sic.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI
-
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="",TVI
-
 http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/livestream.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI
-
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI
-
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias (Geo)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias (Geo)
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqqpt1474662424.png/medium",RTP 3
-
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
@@ -53,7 +42,6 @@ http://185.26.174.67:44444/play/a019
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical (Geo)
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/yuxppt1465900144.png",Porto Canal
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/yuxppt1465900144.png",Porto Canal
@@ -68,9 +56,7 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png",RTP Memória
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/qypyvv1437950573.png",Canal Parlamento
-
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png",Sport TV 1
 http://185.26.174.67:44444/play/a01j
@@ -84,7 +70,6 @@ http://185.26.174.67:44444/play/a01c
 http://185.26.174.67:44444/play/a002
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png",Eurosport
 http://185.26.174.67:44444/play/a01d
-
 #EXTINF:0,Eurosport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:0,Eurosport 1 HD (French)
@@ -97,13 +82,11 @@ http://81.7.13.162/hls/ss2/index.m3u8
 http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 4 (ALB)
 http://81.7.13.162/hls/ss4/index.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",REAL MADRID TV (ES)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/c1nmlt1492909354.png",Historia
 http://185.26.174.67:44444/play/a01g
-
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vpyypr1462122978.png",Odisseia
 http://185.26.174.67:44444/play/a01i
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/usvxwq1433945505.png",Discovery Channel
@@ -127,10 +110,6 @@ http://185.26.174.67:44444/play/a01f
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/xpxwrx1471035181.png",Disney Jr
 http://185.26.174.67:44444/play/a00q
 
-
-
-
-
 #EXTINF:0,SERVUS TV AT
 http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,SERVUS TV DE
@@ -138,7 +117,6 @@ http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8?sd=10
 #EXTINF:0,WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_1992_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,WDR HD
-
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
 #EXTINF:0,Das Erste
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
@@ -154,7 +132,6 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
 #EXTINF:0,24 TV
 http://176.114.202.140:7781/udp/239.255.11.104:1234
-
 #EXTINF:0 type="stream" tvg-logo="https://seasonax.com/application/files/7714/5826/5701/img_144_logobb.png",BLOOMBERG (US)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:0,Bloomberg
@@ -169,27 +146,20 @@ http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
 #EXTINF:0,ABC News Live
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
-
 #EXTINF:0,ABC News Extra
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:0,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
 #EXTINF:0,Deutche Welle English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0,Al Jazeera English
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8 
 #EXTINF:0,CGTN
 http://live.cgtn.com/manifest.m3u8
-
 #EXTINF:0,CGTN Documentary
-
 http://live.cgtn.com/cctv-d.m3u8
-
 #EXTINF:0,Fox News Talk
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-
-
 #EXTINF:0,CMC
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:0,Capital TV
@@ -199,11 +169,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.
 #EXTINF:0,City Radio.TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 #EXTINF:0,Virgin Music TV
-
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 #EXTINF:0,Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
 
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",NAZARE
 http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
@@ -216,7 +184,6 @@ http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",GRANDE
 http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",GUINCHO NORTE
-
 http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",GUINCHO SUL
 http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
@@ -224,7 +191,6 @@ http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
 http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CARCAVELOS
 http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CAPARICA S.JOAO
 http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",S. TORPES
