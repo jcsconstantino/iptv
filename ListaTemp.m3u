@@ -1,4 +1,17 @@
 #EXTM3U
+
+#EXTINF:-1,PT: BTV 1 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/9347.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/6254.ts
+#EXTINF:-1,PT: Sport TV 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/6253.ts
+#EXTINF:-1,PT: Sport TV 3
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/6252.ts
+#EXTINF:-1,PT: Sport TV 4
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/6251.ts
+#EXTINF:-1,PT: Sport TV 5
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/6250.ts
 #EXTINF:-1,RTP 1
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/890.ts
 #EXTINF:-1,RTP 1 Mobile
@@ -123,7 +136,7 @@ http://iptvsbh.ddns.net:8003/live/armindo/armindo/1289.ts
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1100.ts
 #EXTINF:-1,MOV
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1075.ts
-#EXTINF:-1,TVI FICCÃO
+#EXTINF:-1,TVI FICCÃƒO
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1400.ts
 #EXTINF:-1,TVI REALITY
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/865.ts
@@ -171,9 +184,9 @@ http://iptvsbh.ddns.net:8003/live/armindo/armindo/1455.ts
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1131.ts
 #EXTINF:-1,TRAVEL CHANNEL
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1061.ts
-#EXTINF:-1,CAÇAVISION
+#EXTINF:-1,CAÃ‡AVISION
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1098.ts
-#EXTINF:-1,CAÇA E PESCA 
+#EXTINF:-1,CAÃ‡A E PESCA 
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1097.ts
 #EXTINF:-1,TOROS TV
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1519.ts
