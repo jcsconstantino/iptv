@@ -67,6 +67,8 @@ rtsp://213.13.26.41:1935/live/portocanal
 http://94.63.107.131:8030/play/a00y
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png",Sport TV 1
 http://185.26.174.67:44444/play/a01j
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png",Sport TV 1
+http://78.129.184.15:6259/streaming/stream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png",Sport TV 2
 http://185.26.174.67:44444/play/a016
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png",Sport TV 3
