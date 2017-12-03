@@ -16,15 +16,7 @@ http://noscdn1.connectedviews.com:1935/live/sic.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC (Geo)
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI
-http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/livestream.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI
-http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias (Geo)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias (Geo)
@@ -32,81 +24,62 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqqpt1474662424.png/medium",RTP 3
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI 24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI 24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI 24
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI 24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI 24
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI 24
-http://185.26.174.67:44444/play/a019
-#EXTINF:0 tvg-logo="http://i.imgur.com/PM9mIG3.png",SIC Mulher
-http://94.63.107.131:8030/play/a00z
-#EXTINF:0 tvg-logo="http://i.imgur.com/mHv2YrF.png",SIC Caras
-http://94.63.107.131:8030/play/a00w
+https://video-auth7.iol.pt/live_tvi24/live_tvi24/live_tvi24/live_tvi24-1/playlist.m3u8?mag
 #EXTINF:0 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC Radical (Geo)
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical (Geo)
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical (Geo)
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/6e/TVI_Fic%C3%A7%C3%A3o_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142657",TVI Ficcao
-http://4.31.30.145:9004
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrvwx1438185988.png",RTP Internacional
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png",RTP Memória
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/yuxppt1465900144.png",Porto Canal
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/yuxppt1465900144.png",Porto Canal
-rtsp://213.13.26.41:1935/live/portocanal
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png",Sport TV +
-http://94.63.107.131:8030/play/a00y
+
+#EXTINF:0 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
+http://188.93.235.4:9981/stream/channelid/254966533?ticket=B0F4DAA9130C7D61E0DA4F0A0B34DCA7B81431E3&profile=pass
+#EXTINF:0 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
+http://77.54.249.189:9981/stream/channelid/912423238?ticket=F22F2CD296704BED85F8BEB2665929EFD7B7B443&profile=pass
+#EXTINF:0 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
+http://94.60.103.81:9981/stream/channelid/1807443462
+#EXTINF:0 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
+http://77.54.249.189:9981/stream/channelid/18070609?ticket=A221A4F0C74D5447CE2F1F77F7AD9CB93FD8CA79&profile=pass
+#EXTINF:0 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/4f/TVS%C3%A9ries.png/revision/latest?cb=20140404133444" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES
+http://94.60.103.81:9981/stream/channelid/1155107983
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-plaCHZpDDBk/V3WHl3nq9wI/AAAAAAAADMg/HG3bo7asrl4XugELDbh5Lhkj9RNuvk_DwCLcB/s1600/CANAL%2BHOLLYWOOD.png" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD
+
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png",Sport TV 1
-http://185.26.174.67:44444/play/a01j
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png",Sport TV 1
-http://78.129.184.15:6259/streaming/stream/playlist.m3u8
+http://188.93.235.4:9981/stream/channelid/111731267?ticket=5BE6747C4370D78AF30F8ACCEA430999F35FAC82&profile=pass
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png",Sport TV 2
-http://185.26.174.67:44444/play/a016
+http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png",Sport TV 3
-http://185.26.174.67:44444/play/a01a
+http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png",Sport TV 3
+http://94.60.103.81:9981/stream/channelid/1553461544
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png",Sport TV 4
-http://185.26.174.67:44444/play/a01c
+http://185.80.220.79:15214/streamM/0tkVGgd2jl.stream/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",BTV
-http://185.26.174.67:44444/play/a002
+http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",BTV
+http://54.36.51.53:8000/live/ampadu/ampadu/2438.ts
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png",Eurosport
 http://185.26.174.67:44444/play/a01d
 #EXTINF:0,Eurosport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:0,Eurosport 1 HD (French)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 1 (ALB)
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 2 (ALB)
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 3 (ALB)
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg",Supersport 4 (ALB)
-http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",Barca TV
-http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
-#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058",Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/c1nmlt1492909354.png",Historia
-http://185.26.174.67:44444/play/a01g
+http://54.36.51.53:8000/live/ampadu/ampadu/2453.ts
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vpyypr1462122978.png",Odisseia
-http://185.26.174.67:44444/play/a01i
+http://54.36.51.53:8000/live/ampadu/ampadu/2452.ts
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/usvxwq1433945505.png",Discovery Channel
-http://185.26.174.67:44444/play/a01h
+http://54.36.51.53:8000/live/ampadu/ampadu/2451.ts
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png",Nat Geo Wild
-http://185.26.174.67:44444/play/a01p
+http://54.36.51.53:8000/live/ampadu/ampadu/2450.ts
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/yusrru1445113463.png",AXN
 http://185.26.174.67:44444/play/a00x
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png",AXN White
