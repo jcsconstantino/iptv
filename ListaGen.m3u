@@ -8,9 +8,9 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuqtux1462891387.png",ORF Sport +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
+http://asdp.ddns.net:8000/live/roberto/roberto/470.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png",RTP 1
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png",RTP 2
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
