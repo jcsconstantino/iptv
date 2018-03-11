@@ -9,8 +9,12 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png",RTP 1
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png",RTP 1 HD
+http://asdp.ddns.net:8000/live/roberto/roberto/470.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png",RTP 2
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png",RTP 2
+http://asdp.ddns.net:8000/live/roberto/roberto/344.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC (Geo)
@@ -24,15 +28,15 @@ http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2228.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI HD
 http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2440.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqqpt1474662424.png/medium",RTP 3
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp/app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI 24
 https://video-auth7.iol.pt/live_tvi24/live_tvi24/live_tvi24/live_tvi24-1/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI 24
 https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrvwx1438185988.png",RTP Internacional
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png",RTP Memória
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias (Geo)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias (Geo)
