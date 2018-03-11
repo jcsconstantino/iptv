@@ -33,6 +33,12 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepe
 https://video-auth7.iol.pt/live_tvi24/live_tvi24/live_tvi24/live_tvi24-1/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI 24
 https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:0 type="stream" tvg-logo="",TVI 24
+https://video-auth7.iol.pt/live_tvi24/live_tvi24/live_tvi24/live_tvi24-1/playlist.m3u8?mag
+#EXTINF:0 type="stream" tvg-logo="",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrvwx1438185988.png",RTP Internacional
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png",RTP Memória
