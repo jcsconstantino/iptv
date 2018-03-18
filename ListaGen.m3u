@@ -21,8 +21,6 @@ http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2439.m3u8
 http://asdp.ddns.net:8000/live/roberto/roberto/345.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png",TVI
 https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE4IDM6MTI6NTUgUE0maGFzaF92YWx1ZT1ERWRzdkxsM2R4UlJBTUFmUHpOcXhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmMwOGQ5ODMtZGFmNi00YWU5LTg0MDItMjRmMTFjMzI0MTM1
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png",TVI
-https://video-auth7.iol.pt/vod/_definst_/4/6/1/7/smil:5aad00e20cf29778fd1e4617-L/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE4IDM6MTg6MzcgUE0maGFzaF92YWx1ZT1qb2NjYkdxUTdxSi8yRlB0K0JHUmdBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9KyBkZWNvZGVkUGF5bG9hZC51c2VyX25hbWUgKw==
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP3.png",RTP3
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI24.png",TVI24
