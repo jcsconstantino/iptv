@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/tppruv1461618203.png",ORF 1
+#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/200px-ORFeins.svg.png",ORF eins
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wyrqvv1436104657.png",ORF 2
+#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/200px-ORF2_logo_n.svg.png",ORF 2
 http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/xusypy1461618215.png",ORF 3
+#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/200px-ORF_III_Logo_Monochrom.svg.png",ORF III
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/vuqtux1462891387.png",ORF Sport +
+#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/250px-ORF_Sport_%2B.svg.png",ORF Sport +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png",RTP 1
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
