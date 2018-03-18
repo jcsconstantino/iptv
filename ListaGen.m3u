@@ -15,33 +15,33 @@ http://asdp.ddns.net:8000/live/roberto/roberto/470.m3u8
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png",RTP 2
 http://asdp.ddns.net:8000/live/roberto/roberto/344.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
+#EXTINF:0 tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC (Geo)
+#EXTINF:0 tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC HD
+#EXTINF:0 tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC HD
 http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2439.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI
+#EXTINF:0 tvg-logo="",TVI
 https://video-auth3.iol.pt/live_tvi/live_tvi/playlist.m3u8?
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqqpt1474662424.png/medium",RTP 3
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI 24
+#EXTINF:0 tvg-logo="",TVI 24
 https://video-auth3.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrvwx1438185988.png",RTP Internacional
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png",RTP Memória
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias (Geo)
+#EXTINF:0 tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias (Geo)
+#EXTINF:0 tvg-logo="https://www.thelogodb.com/images/media/logo/wsvrtu1471151319.png",SIC Noticias
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC Radical (Geo)
+#EXTINF:0 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-#EXTINF:0 tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVIR.png",TVI REALITY
+#EXTINF:0 tvg-id="TVIREAL" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVIR.png",TVI Reality
 https://video-auth3.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical (Geo)
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical (Geo)
+#EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 #EXTINF:0,WDR
