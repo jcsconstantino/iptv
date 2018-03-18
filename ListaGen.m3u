@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI24.png",TVI24 [Geo-Bloqueado]
+https://video-auth3.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE4IDExOjU5OjU1IEFNJmhhc2hfdmFsdWU9K0xOUFMyaUFJWDA2Nzd1dSt3NExPQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRmOWM0YjNiLWJhZDktNDI5Zi1iZjE0LTg2NzIxMjgyYTBhYQ==
+#EXTINF:-1 tvg-id="TVIREAL" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVIR.png",TVI REALITY [Geo-Bloqueado]
+https://video-auth3.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?
 #EXTINF:-1 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/tppruv1461618203.png",ORF 1
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wyrqvv1436104657.png",ORF 2
