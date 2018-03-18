@@ -18,17 +18,15 @@ http://asdp.ddns.net:8000/live/roberto/roberto/344.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC (Geo)
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC HD
 http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2439.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI
-http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-#EXTINF:0 type="stream" tvg-logo="",TVI
-http://noscdne.entrprise.tv:1935/live/tvi.stream/live.m3u8
+https://video-auth3.iol.pt/live_tvi/live_tvi/playlist.m3u8?
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqqpt1474662424.png/medium",RTP 3
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="",TVI 24
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+https://video-auth3.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrvwx1438185988.png",RTP Internacional
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png",RTP Memória
@@ -39,6 +37,8 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC Radical (Geo)
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:0 tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVIR.png",TVI REALITY
+https://video-auth3.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical (Geo)
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC Radical (Geo)
@@ -96,6 +96,23 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 #EXTINF:0,Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:0 radio="true" tvg-id="n/a" tvg-logo="https://www.thelogodb.com/images/media/logonew/txtrqy1435096777.png/medium",RADIO COMERCIAL
+rtmp://mcrwowza4.mcr.iol.pt/comerciallc playpath=comerciallc.sdp swfUrl="http://radiocomercial.iol.pt/player/scripts/player.swf?v=1.1 pageUrl="http://kodiportugal.pt
+#EXTINF:0 radio="true" tvg-id="n/a" tvg-logo="https://www.thelogodb.com/images/media/logonew/wsrpqu1435094246.png/medium",RADIO RFM
+http://19573.live.streamtheworld.com/RFMAAC
+#EXTINF:0 radio="true" tvg-id="n/a" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png",RADIO  ANTENA 1
+http://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:0 radio="true" tvg-id="n/a" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png",RADIO  ANTENA 2
+http://streaming-live.rtp.pt/liveradio/antena280a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:0 radio="true" tvg-id="n/a" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png",RADIO  ANTENA 3
+http://streaming-live.rtp.pt/liveradio/antena380a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:0 radio="true" tvg-id="n/a" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:0 radio="true" tvg-id="n/a" tvg-logo="https://www.thelogodb.com/images/media/logonew/sqsyux1435094370.png/medium",RADIO RR
+http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:0 radio="true" tvg-id="n/a" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",RADIO AMALIA
+http://link.radios.pt/amalia?1487014253471.mp3
 
 #EXTINF:0 type="stream" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",NAZARE
 http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
