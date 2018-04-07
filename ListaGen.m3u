@@ -27,7 +27,7 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepe
 https://video-auth3.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE4IDM6NTo0MSBQTSZoYXNoX3ZhbHVlPVo3ZnYvSjF3N09LQ0cvZjY0amRhSGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMjdkMTg1ZS1mYmI5LTQ2NDctOWMwYi1hMTE3ODlhY2YxZmI=
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPINT.png",RTP Internacional
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPMEM.png",RTP Memória
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPMEM.png",RTP Memoria
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVIREAL" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVIR.png",TVI Reality
 https://video-auth3.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE4IDExOjU5OjU1IEFNJmhhc2hfdmFsdWU9Vmhhb0pqd00vYnBBbFYvZzVtM21BQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZkMTM3OTYxLWJmYWQtNDgwOS1iMDE1LWVhYWY3ZmU2NDU0MA==
