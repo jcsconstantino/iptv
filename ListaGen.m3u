@@ -8,7 +8,7 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/250px-ORF_Sport_%2B.svg.png",ORF Sport +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png",RTP 1
 http://asdp.ddns.net:8000/live/roberto/roberto/470.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png",RTP 2
@@ -30,9 +30,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI24.png",TVI24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPINT.png",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
 #EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPMEM.png",RTP Memoria
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICN.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICN.png",SIC Notícias
