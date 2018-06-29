@@ -9,12 +9,8 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png",RTP 1
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png",RTP 1
-http://asdp.ddns.net:8000/live/roberto/roberto/470.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png",RTP 2
-http://asdp.ddns.net:8000/live/roberto/roberto/344.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SIC.png",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SIC.png",SIC
@@ -26,13 +22,13 @@ http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png",TVI
 http://62.28.213.14:9981/stream/channelid/1402355728
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP3.png",RTP3
-https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI24.png",TVI24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPINT.png",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPMEM.png",RTP Memoria
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICN.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICN.png",SIC Notícias
