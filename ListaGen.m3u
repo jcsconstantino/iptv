@@ -1,4 +1,35 @@
 #EXTM3U
+
+#EXTINF:-1,RTP 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94996
+#EXTINF:-1,RTP 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65657
+#EXTINF:-1,RTP 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65655
+#EXTINF:-1,A BOLA TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/156377
+#EXTINF:-1,BTV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65585
+#EXTINF:-1,BTV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88976
+#EXTINF:-1,CMTV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/102317
+#EXTINF:-1,Historia
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/84807
+#EXTINF:-1,RTP International
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88154
+#EXTINF:-1,SIC
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/95001
+#EXTINF:-1,SIC Noticias
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/118286
+#EXTINF:-1,SIC Noticias
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/212678
+#EXTINF:-1,SIC Radical
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/102329
+
+#EXTINF:-1,Filme: São Jorge (2016)
+http://l.land02.live:8080/movie/mbarodi0417/WoLZzkwdZZ/167567.mp4
+
 #EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/200px-ORFeins.svg.png",ORF eins
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/200px-ORF2_logo_n.svg.png",ORF 2
@@ -7,8 +38,10 @@ http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/250px-ORF_Sport_%2B.svg.png",ORF Sport +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1,alliptvlinks.com PT: A BOLA TV
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/156377
+
+
+
+
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png",RTP 1
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png",RTP 2
