@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,A Bola TV
-http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/51
 #EXTINF:-1,Benfica TV
 http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/49
 #EXTINF:-1,Benfica TV
@@ -11,6 +9,66 @@ http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65585
 http://borg.hopto.org:80/hamo/hamo/33363
 #EXTINF:-1,Benfica TV
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88976
+#EXTINF:-1,RTP 1
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/5
+#EXTINF:-1,RTP 1 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/118
+#EXTINF:-1,SIC
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/7
+#EXTINF:-1,SIC HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/1
+#EXTINF:-1,TVI
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/8
+#EXTINF:-1,TVI HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/2
+#EXTINF:-1,Benfica TV
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/49
+#EXTINF:-1,Benfica TV
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/48
+#EXTINF:-1,SIC NOTICIAS
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/10
+#EXTINF:-1,TVI 24
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/12
+#EXTINF:-1,CMTV
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/11
+#EXTINF:-1,SPORT TV +
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/113
+#EXTINF:-1,SPORT TV + HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/1142
+#EXTINF:-1,SPORT TV 1
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/38
+#EXTINF:-1,SPORT TV 1 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/39
+#EXTINF:-1,SPORT TV 2
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/40
+#EXTINF:-1,SPORT TV 2 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/41
+#EXTINF:-1,SPORT TV 3
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/42
+#EXTINF:-1,SPORT TV 3 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/46
+#EXTINF:-1,SPORT TV 4
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/43
+#EXTINF:-1,SPORT TV 4 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/44
+#EXTINF:-1,SPORT TV 5
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/45
+#EXTINF:-1,SPORT TV 5 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/540
+#EXTINF:-1,ELEVEN SPORT 1
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/1017
+#EXTINF:-1,ELEVEN SPORT 1 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/1000
+#EXTINF:-1,ELEVEN SPORT 2
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/1018
+#EXTINF:-1,ELEVEN SPORT 2 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/1001
+#EXTINF:-1,ELEVEN SPORT 3
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/1019
+#EXTINF:-1,ELEVEN SPORT 3 HD
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/1002
+#EXTINF:-1,A Bola TV
+http://iptvebsat.no-ip.net:7575/brokasreseler/brokas2017/51
 #EXTINF:-1,CMTV
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/102317
 #EXTINF:-1,Historia
